@@ -1,38 +1,3 @@
-/* *{
-   margin: 0;
-   padding: 0;
-   box-sizing: border-box;
-}
-
-body{
-   background-image: url("images\bg-intro-desktop.png");
-}
-.main-container{
-   width: 50%;
-   margin: auto;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   height: 100vh;
-
-
-}
-
-.form-container{
-   display: grid;
-}
-
-.try{
-   margin-bottom:20px;
-   border: 1px solid white;
-   background-color: blue;
-   padding:10px 20px 10px 20px;
-}
-
-form{
-   width: 20px;
-   display: flex;
-} */
 
 * {
    margin: 0;
